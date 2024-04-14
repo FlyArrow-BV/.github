@@ -6,9 +6,7 @@ We began as an open-source software project in 2021.
 
 Captivated by the concept of affordable, rapid, and point-to-point transit, a small group of part-time contributors dared to dream of transparent solutions for the future of advanced aerial mobility.
 
-We started our project with a singularly lofty goal: a vast vertiport network to connect urban centers to geographically isolated regions.
-
-In 2024, boosted by stellar results and the generous support of our first investor, our core team officially established Aetheric B.V. in the Netherlands. Learn more at our [website](https://aetheric.nl)!
+We started this effort with a lofty goal: a vast vertiport network to connect urban centers to geographically isolated regions. In 2024, boosted by stellar results and the generous support of our first investor, our core team officially established Aetheric B.V. in the Netherlands. Learn more at our [website](https://aetheric.nl)!
 
 ## ✍️ Our Software
 
